@@ -1,0 +1,10 @@
+.expenseApp {
+    background-color: rgb(34, 7, 7);
+    padding: 1rem;
+    border-radius: 10px;
+}
+.expenseApp h2 {
+    color: #fff;
+    font-size: 2rem;
+    padding-left: 1rem;
+}
